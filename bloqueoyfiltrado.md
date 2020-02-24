@@ -5,6 +5,8 @@ Según la [Internet Society](https://www.internetsociety.org/es/)
 A los usuarios finales se les niega el acceso a ciertos contenidos en línea
 en función de determinados controles reglamentarios u objetivos de negocio
 de los proveedores de servicios de internet.
+ 
+ ![Bandera de china](./images/china.png)
 
 - Algunos consideran que el filtrado selectivo del contenido de internet va
 en contra de los principios de acceso libre y abierto, especialmente si es
