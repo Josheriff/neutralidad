@@ -19,4 +19,5 @@ la proliferación de contenidos ilegales en linea.
 - La última justificación del filtrado por parte de los ISP es que permite que los proveedores ofrezcan
 servicios especializados o de valor agregado que sus clientes podrían querer.
 
-[siguiente]()
+![gif que dice "Are you kidding me?", "¿Estás de coña?"](./images/areukiddingme.gif)
+[siguiente](viasrapidas.md)
