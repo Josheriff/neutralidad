@@ -12,3 +12,4 @@ el desempeño de otros.
 contenido a los usuarios con una mejor calidad de servicio.
 
 ![Una autovía se estrecha desde el "internet libre" hacia uno no libre, lo que antes eran 6 carriles ahora son 2 para grandes compañias, quedan lo que antes eran 3 carriles para TODOS LOS DEMAS VEHICULOS](./images/rapidoparaalgunos.jpeg)
+[Siguiente](estrangulamiento.md)
