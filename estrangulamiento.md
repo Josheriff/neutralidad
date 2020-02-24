@@ -21,3 +21,7 @@ Básicamente lo que "Terrorfónica" le hizo a "Superflix" hasta que esta última
 pagó la mordida.
 
 ![Un juguete de una mandibula mordiendo a una chica, representando la mordia que tuvo que pagar una empresa a otra para que no le bajaran el ancho de banda a sus clientes al ver series o peliculas](./images/mordida.gif)
+
+
+
+[siguiente](./itsfree.md)
