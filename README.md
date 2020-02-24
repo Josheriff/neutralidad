@@ -9,6 +9,6 @@ En definitiva, la neutralidad de la red evita que el proveedor contratado cargue
 
 Yo añadiría.... "o dejar de cargar tarifas por visitar otros (luego veremos con que intereses.)"
 
-<img src="images/justice.jpg" alt="Estatua de la Diosa Ciega Justicia, en una mano una balanza equilibrada, en la otra una espada">
+<img src="./images/justice.jpg" alt="Estatua de la Diosa Ciega Justicia, en una mano una balanza equilibrada, en la otra una espada">
 
 [siguiente](porque.md)
