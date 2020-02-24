@@ -7,7 +7,7 @@ Donde se puede encontrar mucha información al respecto. (si consigo que hagáis
 
 Los principales desafíos descritos en la Internet Society son:
 
-- Bloqueo y Filtrado
-- Vías rápidas de internet
-- Estrangulamiento
-- Servicios zero-rating
+- [Bloqueo y Filtrado](bloqueoyfiltrado.md)
+- [Vías rápidas de internet](viasrapidas.md)
+- [Estrangulamiento](estrangulamiento.md)
+- [Servicios zero-rating](itsfree.md)
