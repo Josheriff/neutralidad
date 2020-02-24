@@ -11,3 +11,6 @@ Los principales desafíos descritos en la Internet Society son:
 - [Vías rápidas de internet](viasrapidas.md)
 - [Estrangulamiento](estrangulamiento.md)
 - [Servicios zero-rating](itsfree.md)
+
+
+[Siguiente](bloqueoyfiltrado.md)
