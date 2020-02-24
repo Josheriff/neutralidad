@@ -9,7 +9,7 @@ En definitiva, la neutralidad de la red evita que el proveedor contratado cargue
 
 Yo añadiría.... "o dejar de cargar tarifas por visitar otros (luego veremos con que intereses.)"
 
-![](images/justice.jpg)
+![](./images/justice.jpg)
 __Estatua de la Diosa Ciega Justicia, en una mano una balanza equilibrada, en la otra una espada__
 
 [siguiente](porque.md)
