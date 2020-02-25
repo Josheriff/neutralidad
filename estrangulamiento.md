@@ -4,7 +4,7 @@ Se refiere a ciertas prácticas "COMERCIALES xDDD" que reducen las tasas
 de transferencia del contenido que se entrega a los usuarios finales.
 
 El estrangulamiento puede incluir técnicas como limitar específicamente
-las velocidades de garga o descarga de los usuarios para ciertos tipos
+las velocidades de carga o descarga de los usuarios para ciertos tipos
 de flujos de datos, como podría ser el caso de las prácitacas de gestión
 de tráfico entre pares(peer-to-peer) (torrent, edonkey)
 
